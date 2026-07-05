@@ -1,0 +1,6 @@
+{
+  "name": "Bac IA",
+  "description": "Plateforme éducative avec IA qui résout et rédige des problèmes comme une copie de Terminale pour le Baccalauréat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
